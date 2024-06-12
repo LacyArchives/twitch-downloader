@@ -1,5 +1,6 @@
 dist
 node_modules
+output
 # From https://yarnpkg.com/getting-started/qa#which-files-should-be-gitignored
 .yarn/*
 !.yarn/cache
